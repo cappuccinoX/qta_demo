@@ -8,7 +8,7 @@ from testbase.testcase import debug_run_all
 from qtalib.testcase import QtaTestCase
 
 test_1_data = [
-    {'name': 'Ann', 'age': 18, '__attrs__': {'priorrty': QtaTestCase.EnumPriority.Low}},
+    {'name': 'Ann', 'age': 18, '__attrs__': {'priority': QtaTestCase.EnumPriority.Low}},
     {'name': 'Andy', 'age': 20, '__attrs__': {'__doc__': '第二份data'}}
 ]
 @datadrive.DataDrive(test_1_data)
@@ -22,7 +22,7 @@ class Test_1(QtaTestCase):
 
     def run_test(self):
         print('name is %s and age is %d' % (self.casedata['name'], self.casedata['age']))
-        print(self.priority)
+        print('current priority is %s and description is %s' % (self.priority, self.test_doc))
 
 if __name__ == '__main__':
     debug_run_all()

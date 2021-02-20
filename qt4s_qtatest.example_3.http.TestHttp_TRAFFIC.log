@@ -1,0 +1,304 @@
+2021-02-19 11:48:18,107 - INFO - 12796 - 23396 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x00000252A3C1E880>  
+2021-02-19 11:48:18,107 - INFO - 12796 - 23396 - >>> GET http://127.0.0.1:80/ {} None
+2021-02-19 11:48:18,108 - INFO - 12796 - 23396 - >>> socket_addr:('127.0.0.1', 80) source_address:None
+2021-02-19 11:48:18,112 - INFO - 12796 - 23396 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-19 16:38:32,159 - INFO - 8948 - 21444 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001F8ED959940>  
+2021-02-19 16:38:32,160 - INFO - 8948 - 21444 - >>> GET http://127.0.0.1:80/ {} None
+2021-02-19 16:38:32,162 - INFO - 8948 - 21444 - >>> socket_addr:('127.0.0.1', 80) source_address:None
+2021-02-19 16:38:32,169 - INFO - 8948 - 21444 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-19 16:39:37,688 - INFO - 19092 - 13944 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001C1EDEB9700>  
+2021-02-19 16:39:37,688 - INFO - 19092 - 13944 - >>> GET http://127.0.0.1:12356/ {} None
+2021-02-19 16:39:37,689 - INFO - 19092 - 13944 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 16:39:37,691 - INFO - 19092 - 13944 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-19 16:43:10,100 - INFO - 32220 - 7492 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x00000142E889E370>  
+2021-02-19 16:43:10,100 - INFO - 32220 - 7492 - >>> GET http://127.0.0.1:12356/ {} None
+2021-02-19 16:43:10,101 - INFO - 32220 - 7492 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 16:43:10,105 - INFO - 32220 - 7492 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-19 16:43:10,106 - INFO - 32220 - 7492 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x00000142E889E460>  
+2021-02-19 16:43:10,106 - INFO - 32220 - 7492 - >>> POST http://127.0.0.1:12356/login?name=m&password=m {} None
+2021-02-19 16:43:10,107 - INFO - 32220 - 7492 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 16:43:10,120 - INFO - 32220 - 7492 - <<< 200 OK b'please select One Equipment:\n10001:Knife\n10002:Big Sword\n10003:KuiHuaBaoDian'
+2021-02-19 16:43:58,425 - INFO - 15084 - 15192 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000023C0F4D8370>  
+2021-02-19 16:43:58,425 - INFO - 15084 - 15192 - >>> GET http://127.0.0.1:12356/ {} None
+2021-02-19 16:43:58,426 - INFO - 15084 - 15192 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 16:43:58,430 - INFO - 15084 - 15192 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-19 16:43:58,432 - INFO - 15084 - 15192 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000023C0F4D8220>  
+2021-02-19 16:43:58,432 - INFO - 15084 - 15192 - >>> POST http://127.0.0.1:12356/login?name=m&password=m {} None
+2021-02-19 16:43:58,433 - INFO - 15084 - 15192 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 16:43:58,439 - INFO - 15084 - 15192 - <<< 200 OK b'please select One Equipment:\n10001:Knife\n10002:Big Sword\n10003:KuiHuaBaoDian'
+2021-02-19 17:45:21,312 - INFO - 26204 - 3452 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000027618D28370>  
+2021-02-19 17:45:21,312 - INFO - 26204 - 3452 - >>> GET http://127.0.0.1:12356/ {} None
+2021-02-19 17:45:21,314 - INFO - 26204 - 3452 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 17:45:21,331 - INFO - 26204 - 3452 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-19 17:45:21,333 - INFO - 26204 - 3452 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000027618D28220>  
+2021-02-19 17:45:21,333 - INFO - 26204 - 3452 - >>> POST http://127.0.0.1:12356/login?name=m&password=m {} None
+2021-02-19 17:45:21,335 - INFO - 26204 - 3452 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 17:45:21,347 - INFO - 26204 - 3452 - <<< 200 OK b'please select One Equipment:\n10001:Knife\n10002:Big Sword\n10003:KuiHuaBaoDian'
+2021-02-19 17:48:49,510 - INFO - 27352 - 992 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001B237A7E370>  
+2021-02-19 17:48:49,510 - INFO - 27352 - 992 - >>> GET http://127.0.0.1:12356/ {} None
+2021-02-19 17:48:49,512 - INFO - 27352 - 992 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 17:48:49,517 - INFO - 27352 - 992 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-19 17:57:29,895 - INFO - 16388 - 21260 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001D539ECE370>  
+2021-02-19 17:57:29,895 - INFO - 16388 - 21260 - >>> GET http://127.0.0.1:12356/ {} None
+2021-02-19 17:57:29,900 - INFO - 16388 - 21260 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 17:57:29,908 - INFO - 16388 - 21260 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-19 17:57:29,910 - INFO - 16388 - 21260 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001D539ECE460>  
+2021-02-19 17:57:29,910 - INFO - 16388 - 21260 - >>> POST http://127.0.0.1:12356/login?name=m&password=m {} None
+2021-02-19 17:57:29,912 - INFO - 16388 - 21260 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 17:57:29,924 - INFO - 16388 - 21260 - <<< 200 OK b'please select One Equipment:\n10001:Knife\n10002:Big Sword\n10003:KuiHuaBaoDian'
+2021-02-19 17:57:55,475 - INFO - 27360 - 3364 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001D040F29370>  
+2021-02-19 17:57:55,475 - INFO - 27360 - 3364 - >>> GET http://127.0.0.1:12356/ {} None
+2021-02-19 17:57:55,476 - INFO - 27360 - 3364 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 17:57:55,480 - INFO - 27360 - 3364 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-19 17:57:55,483 - INFO - 27360 - 3364 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001D040F29220>  
+2021-02-19 17:57:55,483 - INFO - 27360 - 3364 - >>> POST http://127.0.0.1:12356/login?name=m&password=m {} None
+2021-02-19 17:57:55,485 - INFO - 27360 - 3364 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 17:57:55,493 - INFO - 27360 - 3364 - <<< 200 OK b'please select One Equipment:\n10001:Knife\n10002:Big Sword\n10003:KuiHuaBaoDian'
+2021-02-19 18:00:11,330 - INFO - 10620 - 3940 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001DAD242E700>  
+2021-02-19 18:00:11,331 - INFO - 10620 - 3940 - >>> GET http://127.0.0.1:12356/ {} None
+2021-02-19 18:00:11,335 - INFO - 10620 - 3940 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 18:00:11,343 - INFO - 10620 - 3940 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-19 18:00:11,359 - INFO - 10620 - 3940 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001DAD242E460>  
+2021-02-19 18:00:11,360 - INFO - 10620 - 3940 - >>> POST http://127.0.0.1:12356/selectEq?equipmentid=10001 {} None
+2021-02-19 18:00:11,362 - INFO - 10620 - 3940 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 18:00:11,367 - INFO - 10620 - 3940 - <<< 200 OK b'{"equipmentid": "-1", "Message": "Error 9902: Your kill yourself!!"}'
+2021-02-19 18:00:41,400 - INFO - 13484 - 28000 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000010C9C6991C0>  
+2021-02-19 18:00:41,400 - INFO - 13484 - 28000 - >>> GET http://127.0.0.1:12356/ {} None
+2021-02-19 18:00:41,401 - INFO - 13484 - 28000 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 18:00:41,406 - INFO - 13484 - 28000 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-19 18:00:41,409 - INFO - 13484 - 28000 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000010C9C699220>  
+2021-02-19 18:00:41,409 - INFO - 13484 - 28000 - >>> POST http://127.0.0.1:12356/selectEq?equipmentid=10001 {} None
+2021-02-19 18:00:41,411 - INFO - 13484 - 28000 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 18:00:41,415 - INFO - 13484 - 28000 - <<< 200 OK b'{"equipmentid": "-1", "Message": "Error 9902: Your kill yourself!!"}'
+2021-02-19 18:02:17,181 - INFO - 23872 - 22176 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000002777C63E370>  
+2021-02-19 18:02:17,182 - INFO - 23872 - 22176 - >>> POST http://127.0.0.1:12356/selectEq?equipmentid=10001 {} None
+2021-02-19 18:02:17,183 - INFO - 23872 - 22176 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 18:02:17,188 - INFO - 23872 - 22176 - <<< 200 OK b'{"equipmentid": "-1", "Message": "Error 9902: Your kill yourself!!"}'
+2021-02-19 18:02:33,630 - INFO - 24220 - 15544 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000017089E38370>  
+2021-02-19 18:02:33,630 - INFO - 24220 - 15544 - >>> POST http://127.0.0.1:12356/selectEq?equipmentid=10001 {} None
+2021-02-19 18:02:33,634 - INFO - 24220 - 15544 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 18:02:33,639 - INFO - 24220 - 15544 - <<< 200 OK b'{"equipmentid": "-1", "Message": "Error 9902: Your kill yourself!!"}'
+2021-02-19 18:03:01,381 - INFO - 19032 - 28304 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000028524B6E370>  
+2021-02-19 18:03:01,381 - INFO - 19032 - 28304 - >>> POST http://127.0.0.1:12356/selectEq?equipmentid=10001 {} None
+2021-02-19 18:03:01,383 - INFO - 19032 - 28304 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-19 18:03:01,387 - INFO - 19032 - 28304 - <<< 200 OK b'{"equipmentid": "-1", "Message": "Error 9902: Your kill yourself!!"}'
+2021-02-20 09:31:20,854 - INFO - 11884 - 34176 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001E3FE1B82B0>  
+2021-02-20 09:31:20,855 - INFO - 11884 - 34176 - >>> POST http://127.0.0.1:12356/login?username=a&password=a {} None
+2021-02-20 09:31:20,857 - INFO - 11884 - 34176 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-20 09:31:20,867 - INFO - 11884 - 34176 - <<< 200 OK b'please select One Equipment:\n10001:Knife\n10002:Big Sword\n10003:KuiHuaBaoDian'
+2021-02-20 09:35:15,938 - INFO - 7556 - 7264 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x00000232DD80E310>  
+2021-02-20 09:35:15,938 - INFO - 7556 - 7264 - >>> POST http://127.0.0.1:12356/login?username=a&password=a {} None
+2021-02-20 09:35:15,940 - INFO - 7556 - 7264 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-20 09:35:15,949 - INFO - 7556 - 7264 - <<< 200 OK b'please select One Equipment:\n10001:Knife\n10002:Big Sword\n10003:KuiHuaBaoDian'
+2021-02-20 09:35:54,610 - INFO - 3000 - 34352 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000027CD32EE310>  
+2021-02-20 09:35:54,611 - INFO - 3000 - 34352 - >>> POST http://127.0.0.1:12356/login?username=a&password=a {} None
+2021-02-20 09:35:54,613 - INFO - 3000 - 34352 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-20 09:35:54,627 - INFO - 3000 - 34352 - <<< 200 OK b'please select One Equipment:\n10001:Knife\n10002:Big Sword\n10003:KuiHuaBaoDian'
+2021-02-20 09:38:20,668 - INFO - 32832 - 27748 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000029546D4EA60>  
+2021-02-20 09:38:20,668 - INFO - 32832 - 27748 - >>> GET http://127.0.0.1:12356/ {} None
+2021-02-20 09:38:20,670 - INFO - 32832 - 27748 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-20 09:38:20,674 - INFO - 32832 - 27748 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-20 09:38:20,676 - INFO - 32832 - 27748 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000029546D4EE20>  
+2021-02-20 09:38:20,676 - INFO - 32832 - 27748 - >>> POST http://127.0.0.1:12356/login?username=a&password=a {} None
+2021-02-20 09:38:20,677 - INFO - 32832 - 27748 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-20 09:38:20,697 - INFO - 32832 - 27748 - <<< 200 OK b'please select One Equipment:\n10001:Knife\n10002:Big Sword\n10003:KuiHuaBaoDian'
+2021-02-20 09:48:48,655 - INFO - 33848 - 11880 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001D91F47EA60>  
+2021-02-20 09:48:48,655 - INFO - 33848 - 11880 - >>> GET http://127.0.0.1:12356/ {} None
+2021-02-20 09:48:48,658 - INFO - 33848 - 11880 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-20 09:48:48,668 - INFO - 33848 - 11880 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-20 09:48:48,669 - INFO - 33848 - 11880 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001D91F47E5E0>  
+2021-02-20 09:48:48,671 - INFO - 33848 - 11880 - >>> POST http://127.0.0.1:12356/login?username=a&password=a {} None
+2021-02-20 09:48:48,675 - INFO - 33848 - 11880 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-20 09:48:48,686 - INFO - 33848 - 11880 - <<< 200 OK b'please select One Equipment:\n10001:Knife\n10002:Big Sword\n10003:KuiHuaBaoDian'
+2021-02-20 09:49:24,968 - INFO - 30152 - 27976 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x00000237CC28EC40>  
+2021-02-20 09:49:24,968 - INFO - 30152 - 27976 - >>> GET http://127.0.0.1:12356/ {} None
+2021-02-20 09:49:24,969 - INFO - 30152 - 27976 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-20 09:49:24,973 - INFO - 30152 - 27976 - <<< 200 OK b'please input your username(your english name) and password(your english name)'
+2021-02-20 09:49:24,975 - INFO - 30152 - 27976 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x00000237CC2C9100>  
+2021-02-20 09:49:24,976 - INFO - 30152 - 27976 - >>> POST http://127.0.0.1:12356/login?username=a&password=a {} None
+2021-02-20 09:49:24,977 - INFO - 30152 - 27976 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-20 09:49:24,988 - INFO - 30152 - 27976 - <<< 200 OK b'please select One Equipment:\n10001:Knife\n10002:Big Sword\n10003:KuiHuaBaoDian'
+2021-02-20 10:15:13,876 - INFO - 6928 - 27812 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001F17BE9E820>  
+2021-02-20 10:15:13,877 - INFO - 6928 - 27812 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299&scode=f7dae8bc871c043c6d0ab530504212da0fd7e32b&mcduid=170603 {} None
+2021-02-20 10:15:13,903 - INFO - 6928 - 27812 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 10:15:14,366 - INFO - 6928 - 27812 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 10:15:39,553 - INFO - 10752 - 15032 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000002D488E7E460>  
+2021-02-20 10:15:39,554 - INFO - 10752 - 15032 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299&scode=f7dae8bc871c043c6d0ab530504212da0fd7e32b&mcduid=170603 {} None
+2021-02-20 10:15:39,603 - INFO - 10752 - 15032 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 10:15:40,536 - INFO - 10752 - 15032 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 10:16:14,154 - INFO - 18072 - 28204 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x00000227B884E9D0>  
+2021-02-20 10:16:14,154 - INFO - 18072 - 28204 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299&scode=f7dae8bc871c043c6d0ab530504212da0fd7e32b&mcduid=170603 {} None
+2021-02-20 10:16:14,178 - INFO - 18072 - 28204 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 10:16:14,640 - INFO - 18072 - 28204 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 10:20:50,678 - INFO - 13564 - 24788 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000021235F8FC40>  
+2021-02-20 10:20:50,678 - INFO - 13564 - 24788 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299 {} None
+2021-02-20 10:20:50,705 - INFO - 13564 - 24788 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 10:20:51,217 - INFO - 13564 - 24788 - <<< 200 OK b'0'
+2021-02-20 10:21:12,718 - INFO - 4420 - 13156 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001B087AEED00>  
+2021-02-20 10:21:12,719 - INFO - 4420 - 13156 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299 {} None
+2021-02-20 10:21:12,748 - INFO - 4420 - 13156 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 10:21:13,499 - INFO - 4420 - 13156 - <<< 200 OK b'0'
+2021-02-20 10:22:24,792 - INFO - 6228 - 29820 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x00000228F9EEED00>  
+2021-02-20 10:22:24,793 - INFO - 6228 - 29820 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299 {} None
+2021-02-20 10:22:24,825 - INFO - 6228 - 29820 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 10:22:25,358 - INFO - 6228 - 29820 - <<< 200 OK b'0'
+2021-02-20 10:28:22,878 - INFO - 2772 - 34088 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000002AE7D8CEAF0>  
+2021-02-20 10:28:22,878 - INFO - 2772 - 34088 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299 {} None
+2021-02-20 10:28:22,909 - INFO - 2772 - 34088 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 10:28:23,433 - INFO - 2772 - 34088 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 10:47:35,813 - INFO - 32408 - 24432 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x00000258F130EAF0>  
+2021-02-20 10:47:35,814 - INFO - 32408 - 24432 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299 {} None
+2021-02-20 10:47:35,860 - INFO - 32408 - 24432 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 10:47:36,320 - INFO - 32408 - 24432 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 10:55:50,464 - INFO - 34272 - 33612 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000026C4754ED00>  
+2021-02-20 10:55:50,465 - INFO - 34272 - 33612 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299 {} None
+2021-02-20 10:55:50,489 - INFO - 34272 - 33612 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 10:55:51,027 - INFO - 34272 - 33612 - <<< 200 OK b'0'
+2021-02-20 10:57:16,532 - INFO - 26820 - 30888 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000016CC0F8E880>  
+2021-02-20 10:57:16,533 - INFO - 26820 - 30888 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299 {} None
+2021-02-20 10:57:16,570 - INFO - 26820 - 30888 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 10:57:17,080 - INFO - 26820 - 30888 - <<< 200 OK b'0'
+2021-02-20 11:01:53,255 - INFO - 8460 - 13640 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000019CB4A0E6A0>  
+2021-02-20 11:01:53,256 - INFO - 8460 - 13640 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299 {} None
+2021-02-20 11:01:53,289 - INFO - 8460 - 13640 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 11:01:54,013 - INFO - 8460 - 13640 - <<< 200 OK b'0'
+2021-02-20 11:02:17,448 - INFO - 27284 - 8472 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000023DFF77F6A0>  
+2021-02-20 11:02:17,448 - INFO - 27284 - 8472 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299 {} None
+2021-02-20 11:02:17,474 - INFO - 27284 - 8472 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 11:02:17,926 - INFO - 27284 - 8472 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 11:02:38,590 - INFO - 23436 - 23912 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x00000199F43DED00>  
+2021-02-20 11:02:38,590 - INFO - 23436 - 23912 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299 {} None
+2021-02-20 11:02:38,622 - INFO - 23436 - 23912 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 11:02:39,017 - INFO - 23436 - 23912 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 11:03:32,415 - INFO - 9064 - 30380 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000028156CCE5E0>  
+2021-02-20 11:03:32,416 - INFO - 9064 - 30380 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299 {} None
+2021-02-20 11:03:32,439 - INFO - 9064 - 30380 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 11:03:32,819 - INFO - 9064 - 30380 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 11:12:44,765 - INFO - 11700 - 6184 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000015F31ACE6A0>  
+2021-02-20 11:12:44,766 - INFO - 11700 - 6184 - >>> POST http://wehr.qq.com:{'examcode': 'F4B859A3BFFFD39CB299'}/Center/Organization/getMailContent {} b'--81cd49ac81880a8ae3149b592caba92b--\r\n'
+2021-02-20 11:13:27,560 - INFO - 15236 - 21384 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000002056B65E430>  
+2021-02-20 11:13:27,560 - INFO - 15236 - 21384 - >>> POST http://wehr.qq.com:{'examcode': 'F4B859A3BFFFD39CB299'}/Center/Organization/getMailContent {} None
+2021-02-20 11:13:38,706 - INFO - 30408 - 29820 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001FAD522E430>  
+2021-02-20 11:13:38,706 - INFO - 30408 - 29820 - >>> POST http://wehr.qq.com:{'examcode': 'F4B859A3BFFFD39CB299'}/Center/Organization/getMailContent {} None
+2021-02-20 11:18:16,784 - INFO - 32580 - 21436 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x00000247C316F310>  
+2021-02-20 11:18:16,785 - INFO - 32580 - 21436 - >>> POST http://wehr.qq.com:{'examcode': 'F4B859A3BFFFD39CB299'}/Center/Organization/getMailContent {} 
+2021-02-20 11:18:29,973 - INFO - 27276 - 31772 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001E039BBF310>  
+2021-02-20 11:18:29,973 - INFO - 27276 - 31772 - >>> POST http://wehr.qq.com:{'examcode': 'F4B859A3BFFFD39CB299'}/Center/Organization/getMailContent {} 
+2021-02-20 11:19:27,621 - INFO - 21444 - 26944 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000020060106370>  
+2021-02-20 11:19:27,621 - INFO - 21444 - 26944 - >>> POST http://wehr.qq.com:{'examcode': 'F4B859A3BFFFD39CB299'}/Center/Organization/getMailContent {} 
+2021-02-20 11:19:49,538 - INFO - 13596 - 19220 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000024CEFB1F310>  
+2021-02-20 11:19:49,539 - INFO - 13596 - 19220 - >>> POST http://wehr.qq.com:{'examcode': 'F4B859A3BFFFD39CB299'}/Center/Organization/getMailContent {} 
+2021-02-20 11:20:57,922 - INFO - 10668 - 33500 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000023C443FF310>  
+2021-02-20 11:20:57,922 - INFO - 10668 - 33500 - >>> POST http://wehr.qq.com:{'examcode': 'F4B859A3BFFFD39CB299'}/Center/Organization/getMailContent {} 
+2021-02-20 14:24:34,025 - INFO - 12776 - 16768 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001D3EF02FCA0>  
+2021-02-20 14:24:34,026 - INFO - 12776 - 16768 - >>> POST http://wehr.qq.com:{'examcode': 'F4B859A3BFFFD39CB299'}/Center/Organization/getMailContent {} b'--b8015eb3c0bead741dfb6773555b3478--\r\n'
+2021-02-20 14:27:07,438 - INFO - 32980 - 21348 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001A70DB0F2E0>  
+2021-02-20 14:27:07,439 - INFO - 32980 - 21348 - >>> POST http://wehr.qq.com:{'examcode': 'F4B859A3BFFFD39CB299'}/Center/Organization/getMailContent {} None
+2021-02-20 14:28:22,626 - INFO - 33696 - 30456 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001E37060F2E0>  
+2021-02-20 14:28:22,626 - INFO - 33696 - 30456 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?examcode=F4B859A3BFFFD39CB299 {} None
+2021-02-20 14:28:22,647 - INFO - 33696 - 30456 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:28:23,011 - INFO - 33696 - 30456 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 14:29:22,754 - INFO - 22760 - 24308 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001C9FB79F8E0>  
+2021-02-20 14:29:22,754 - INFO - 22760 - 24308 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--819c8d65e5b914f308ab499f54d042bd\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--819c8d65e5b914f308ab499f54d042bd--\r\n'
+2021-02-20 14:29:22,775 - INFO - 22760 - 24308 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:29:23,135 - INFO - 22760 - 24308 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 14:29:49,638 - INFO - 2612 - 14576 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001B202A9F310>  
+2021-02-20 14:29:49,639 - INFO - 2612 - 14576 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--e647336356dec9ef6e0ea6a8d0263c06\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--e647336356dec9ef6e0ea6a8d0263c06--\r\n'
+2021-02-20 14:29:49,661 - INFO - 2612 - 14576 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:29:50,231 - INFO - 2612 - 14576 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:30:50,194 - INFO - 4544 - 28544 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000002E9EE91FCA0>  
+2021-02-20 14:30:50,194 - INFO - 4544 - 28544 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--8a485a43b70f094ced692b393edb649a\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--8a485a43b70f094ced692b393edb649a--\r\n'
+2021-02-20 14:30:50,225 - INFO - 4544 - 28544 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:30:50,868 - INFO - 4544 - 28544 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:37:57,291 - INFO - 18048 - 1188 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001A2FA94EC10>  
+2021-02-20 14:37:57,291 - INFO - 18048 - 1188 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--849636c8805738229dd8ecd19f367930\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--849636c8805738229dd8ecd19f367930--\r\n'
+2021-02-20 14:37:57,316 - INFO - 18048 - 1188 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:37:57,937 - INFO - 18048 - 1188 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:38:40,703 - INFO - 34004 - 992 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001EF8660FC10>  
+2021-02-20 14:38:40,703 - INFO - 34004 - 992 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--a6e940cf8e708dfbe933c32f4aad4102\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--a6e940cf8e708dfbe933c32f4aad4102--\r\n'
+2021-02-20 14:38:40,744 - INFO - 34004 - 992 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:38:41,637 - INFO - 34004 - 992 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:50:05,598 - INFO - 12560 - 11328 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000019833ABE8B0>  
+2021-02-20 14:50:05,598 - INFO - 12560 - 11328 - >>> POST http://127.0.0.1:80/selectEq {} b'--36bca7afb337bf32320a1e0cb18f27b6\r\nContent-Disposition: form-data; name="equipmentid"\r\n\r\n10001\r\n--36bca7afb337bf32320a1e0cb18f27b6--\r\n'
+2021-02-20 14:50:05,600 - INFO - 12560 - 11328 - >>> socket_addr:('127.0.0.1', 80) source_address:None
+2021-02-20 14:50:07,605 - ERROR - 12560 - 11328 - <<< Traceback (most recent call last):
+  File "D:\Python38\lib\site-packages\qt4s\connections\__init__.py", line 33, in patched_create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+  [server addr:('127.0.0.1', 80)]
+2021-02-20 14:50:38,117 - INFO - 26336 - 34172 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001B1B9A7E8B0>  
+2021-02-20 14:50:38,117 - INFO - 26336 - 34172 - >>> POST http://127.0.0.1:12356/selectEq {} b'--c20fc2959a4f7c2ec7dc1548dab3da33\r\nContent-Disposition: form-data; name="equipmentid"\r\n\r\n10001\r\n--c20fc2959a4f7c2ec7dc1548dab3da33--\r\n'
+2021-02-20 14:50:38,119 - INFO - 26336 - 34172 - >>> socket_addr:('127.0.0.1', 12356) source_address:None
+2021-02-20 14:50:38,130 - INFO - 26336 - 34172 - <<< 200 OK b'{"equipmentid": "10001", "Message": "your pick up equipmentid:10001 please select your  enemyid:\\n20001:Terran\\n20002:ORC\\n20003:Undead"}'
+2021-02-20 14:51:49,732 - INFO - 30232 - 2780 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000029B2191E040>  
+2021-02-20 14:51:49,732 - INFO - 30232 - 2780 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--725638725d8be573810c15d257e51852\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--725638725d8be573810c15d257e51852--\r\n'
+2021-02-20 14:51:49,753 - INFO - 30232 - 2780 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:51:50,356 - INFO - 30232 - 2780 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:53:27,891 - INFO - 12944 - 16420 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001E9EA69E040>  
+2021-02-20 14:53:27,891 - INFO - 12944 - 16420 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--05f4bebed7cf6059122d91fb1b8fc9d4\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--05f4bebed7cf6059122d91fb1b8fc9d4--\r\n'
+2021-02-20 14:53:27,914 - INFO - 12944 - 16420 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:53:28,526 - INFO - 12944 - 16420 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:53:39,674 - INFO - 34172 - 28648 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001541B82F040>  
+2021-02-20 14:53:39,675 - INFO - 34172 - 28648 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--6626dc735e70c7e1d3ff595760bf670c\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--6626dc735e70c7e1d3ff595760bf670c--\r\n'
+2021-02-20 14:53:39,698 - INFO - 34172 - 28648 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:53:40,303 - INFO - 34172 - 28648 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:53:51,668 - INFO - 23436 - 33336 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000021C7512E040>  
+2021-02-20 14:53:51,668 - INFO - 23436 - 33336 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--276366897fbb1cb27a90dddd157bfec3\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--276366897fbb1cb27a90dddd157bfec3--\r\n'
+2021-02-20 14:53:51,690 - INFO - 23436 - 33336 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:53:52,295 - INFO - 23436 - 33336 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:54:22,616 - INFO - 34692 - 10204 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000002C0B12BE040>  
+2021-02-20 14:54:22,616 - INFO - 34692 - 10204 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--dd6f1b387db578fa3ac841b463c0466b\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--dd6f1b387db578fa3ac841b463c0466b--\r\n'
+2021-02-20 14:54:22,645 - INFO - 34692 - 10204 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:54:23,402 - INFO - 34692 - 10204 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:57:09,880 - INFO - 31616 - 9116 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000020481FDF040>  
+2021-02-20 14:57:09,880 - INFO - 31616 - 9116 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--47f659a39ac73f697668082fdb472f3f\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--47f659a39ac73f697668082fdb472f3f--\r\n'
+2021-02-20 14:57:09,916 - INFO - 31616 - 9116 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:57:10,610 - INFO - 31616 - 9116 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:57:30,730 - INFO - 23628 - 7384 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001B8A2EEF040>  
+2021-02-20 14:57:30,731 - INFO - 23628 - 7384 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--e4e45504d5e329ba93cf18e114106491\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--e4e45504d5e329ba93cf18e114106491--\r\n'
+2021-02-20 14:57:30,756 - INFO - 23628 - 7384 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:57:31,367 - INFO - 23628 - 7384 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:58:09,429 - INFO - 34048 - 7912 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001F7E5D6E5E0>  
+2021-02-20 14:58:09,429 - INFO - 34048 - 7912 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--8fd2b41a678778aac8cc0f1be070a6b1\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--8fd2b41a678778aac8cc0f1be070a6b1--\r\n'
+2021-02-20 14:58:09,450 - INFO - 34048 - 7912 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:58:09,988 - INFO - 34048 - 7912 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:58:33,780 - INFO - 23316 - 14060 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001D3F361E5E0>  
+2021-02-20 14:58:33,780 - INFO - 23316 - 14060 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--a6d470303fc163271355cffb06bd989d\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--a6d470303fc163271355cffb06bd989d--\r\n'
+2021-02-20 14:58:33,809 - INFO - 23316 - 14060 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:58:34,356 - INFO - 23316 - 14060 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 14:59:15,425 - INFO - 30316 - 34808 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000020C69B5E5E0>  
+2021-02-20 14:59:15,425 - INFO - 30316 - 34808 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--052349ce409fc2d7dfd9875ec140e6cd\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--052349ce409fc2d7dfd9875ec140e6cd--\r\n'
+2021-02-20 14:59:15,447 - INFO - 30316 - 34808 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 14:59:15,961 - INFO - 30316 - 34808 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 15:07:28,020 - INFO - 14100 - 16044 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001D1F90CEDF0>  
+2021-02-20 15:07:28,020 - INFO - 14100 - 16044 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--8f6734537b2790acfb5a85c9680fa473\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--8f6734537b2790acfb5a85c9680fa473--\r\n'
+2021-02-20 15:07:28,044 - INFO - 14100 - 16044 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 15:07:28,575 - INFO - 14100 - 16044 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 15:07:50,703 - INFO - 34748 - 29772 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x00000224510EEDF0>  
+2021-02-20 15:07:50,703 - INFO - 34748 - 29772 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--2d7be80d821091d573e6df9ebdc8b437\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--2d7be80d821091d573e6df9ebdc8b437--\r\n'
+2021-02-20 15:07:50,727 - INFO - 34748 - 29772 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 15:07:51,337 - INFO - 34748 - 29772 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 15:08:52,164 - INFO - 31284 - 23884 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001DD74ADEE80>  
+2021-02-20 15:08:52,164 - INFO - 31284 - 23884 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--6438b12b9309696dcb315d77b58d2ffd\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--6438b12b9309696dcb315d77b58d2ffd--\r\n'
+2021-02-20 15:08:52,195 - INFO - 31284 - 23884 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 15:08:52,816 - INFO - 31284 - 23884 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
+2021-02-20 17:42:36,022 - INFO - 32968 - 34652 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001E414F4EB80>  
+2021-02-20 17:42:36,022 - INFO - 32968 - 34652 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--d54197893c0d4e1256216395ab96c412\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--d54197893c0d4e1256216395ab96c412--\r\n'
+2021-02-20 17:42:36,045 - INFO - 32968 - 34652 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 17:42:36,511 - INFO - 32968 - 34652 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 17:42:54,737 - INFO - 19636 - 34332 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000023A2877FB80>  
+2021-02-20 17:42:54,737 - INFO - 19636 - 34332 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--09225e1e9313dbdd61509339ead45926\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--09225e1e9313dbdd61509339ead45926--\r\n'
+2021-02-20 17:42:54,767 - INFO - 19636 - 34332 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 17:42:55,243 - INFO - 19636 - 34332 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 17:43:26,523 - INFO - 19220 - 24232 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001871981E160>  
+2021-02-20 17:43:26,524 - INFO - 19220 - 24232 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--81eb9fc7fdfe24e5e6c01a890a06b2a3\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--81eb9fc7fdfe24e5e6c01a890a06b2a3--\r\n'
+2021-02-20 17:43:26,546 - INFO - 19220 - 24232 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 17:43:27,000 - INFO - 19220 - 24232 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 17:46:17,120 - INFO - 8980 - 7116 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x0000023202FDF3D0>  
+2021-02-20 17:46:17,120 - INFO - 8980 - 7116 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent?g_trans_id=autotest_g_trans_id&trace_id=autotest_1613814377_67463&g_tk=2054149227 {} b'--2481e3e336efcb8cfd440b8a55b1cdeb\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--2481e3e336efcb8cfd440b8a55b1cdeb--\r\n'
+2021-02-20 17:46:17,151 - INFO - 8980 - 7116 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 17:46:17,643 - INFO - 8980 - 7116 - <<< 200 OK b'<!DOCTYPE html>\r\n\r\n<html>\r\n<head>\r\n    <meta charset="UTF-8">\r\n    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />\r\n    <title></title>\r\n    <!--plugin-->\r\n    <link href="/Public/plug/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" />\r\n    <!--end plugin-->\r\n    <link href="//static.wehr.qq.com/static/v2/css/style/center.css?v4.1" rel="stylesheet" />\r\n</head>\r\n<body class="overflow-hidden">\r\n<!-- start hearder -->\r\n<div class="header clearfix">\r\n    <!--logo-->\r\n '
+2021-02-20 17:56:36,385 - INFO - 15596 - 10032 - >>> proxy: <qt4s.network.proxy.NoProxy object at 0x000001EA5F1CF700>  
+2021-02-20 17:56:36,386 - INFO - 15596 - 10032 - >>> POST http://wehr.qq.com:80/Center/Organization/getMailContent {} b'--e3a83c4b4edee9ea96f247d809c13411\r\nContent-Disposition: form-data; name="examcode"\r\n\r\nF4B859A3BFFFD39CB299\r\n--e3a83c4b4edee9ea96f247d809c13411--\r\n'
+2021-02-20 17:56:36,406 - INFO - 15596 - 10032 - >>> socket_addr:('123.207.164.60', 80) source_address:None
+2021-02-20 17:56:36,911 - INFO - 15596 - 10032 - <<< 200 OK b'{"fill_write1":"","fill_read":"      \\u8bda\\u9080\\u60a8\\u53c2\\u52a0%company_name%\\u7ec4\\u7ec7\\u80fd\\u529b\\u8bca\\u65ad\\u9879\\u76ee\\u3002\\u8bf7\\u60a8\\u79c9\\u6301\\u5bf9\\u516c\\u53f8\\u8d1f\\u8d23\\u7684\\u6001\\u5ea6\\uff0c\\u586b\\u5199\\u60a8\\u6700\\u771f\\u5b9e\\u7684\\u58f0\\u97f3\\u3002\\u8c03\\u7814\\u622a\\u6b62\\u65f6\\u95f4\\u4e3a%end_time%\\u3002\\r\\n      \\u5173\\u4e8e\\u4fdd\\u5bc6\\u6027\\uff0c\\u8c03\\u7814\\u5b8c\\u5168\\u533f\\u540d\\uff0c\\u6bcf\\u4e00\\u4f4d\\u540c\\u4e8b\\u586b\\u5199\\u7684\\u5185\\u5bb9\\u90fd\\u4f1a\\u4e25\\u6'
